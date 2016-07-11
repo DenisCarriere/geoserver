@@ -1,4 +1,8 @@
-# GeoServer Instructions
+# GeoServer
+
+## Table of Contents
+
+[TOC]
 
 ## Software Requirements
 
